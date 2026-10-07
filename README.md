@@ -1,0 +1,1 @@
+This Java-based Copycat Terminal is a lightweight command-line application that simulates a real terminal environment. It runs an interactive loop to read, parse, and execute user inputs, natively supporting the help, ls, clear, and exit commands while gracefully handling unrecognized inputs
